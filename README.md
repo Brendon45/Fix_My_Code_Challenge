@@ -30,3 +30,4 @@ To get started, clone this repository to your local machine:
 ```bash
 git clone https://github.com/your-username/Fix_My_Code_Challenge.git
 
+![HHGHJ](https://happycoding.io/tutorials/html/images/rainbow-logo-2.png)
