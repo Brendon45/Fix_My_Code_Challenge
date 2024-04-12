@@ -16,10 +16,10 @@
 
 ## General
 
-	- Allowed editors: vi, vim, emacs
-	- All your files will be compiled on Ubuntu 14.04 LTS
-	- All your files should end with a new line
-	- A README.md file, at the root of the folder of the project is mandatory
+        - Allowed editors: vi, vim, emacs
+        - All your files will be compiled on Ubuntu 14.04 LTS
+        - All your files should end with a new line
+        - A README.md file, at the root of the folder of the project is mandatory
 
 ## Tasks
 
@@ -35,7 +35,7 @@ Could you look at it and fix it please?
 
 My code is here
 
-$ python -m api.v1.app 
+$ python -m api.v1.app
  * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
 ....
 $ curl -XGET http://0.0.0.0:5000/api/v1/status
