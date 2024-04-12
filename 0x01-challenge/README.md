@@ -46,7 +46,9 @@ $
 Repo:
 
 GitHub repository: Fix_My_Code_Challenge
+
 Directory: 0x01-challenge
+
 File: status_server/
 
 ## 1. My square
@@ -60,7 +62,9 @@ Look my square, it’s perfect? No? Should I change something?
 Repo:
 
 GitHub repository: Fix_My_Code_Challenge
+
 Directory: 0x01-challenge
+
 File: square.py
 
 ## 2. Step 2: User model
@@ -78,7 +82,9 @@ Thank you!
 Repo:
 
 GitHub repository: Fix_My_Code_Challenge
+
 Directory: 0x01-challenge
+
 File: user.py
 
 ## 3. Blog access
@@ -98,7 +104,9 @@ Thank you!
 Repo:
 
 GitHub repository: Fix_My_Code_Challenge
+
 Directory: 0x01-challenge
+
 File: blog
 
 ## 4. Never leave the office
@@ -116,5 +124,7 @@ Arf, I have also the pagination to fix… I didn’t have time before my break t
 Repo:
 
 GitHub repository: Fix_My_Code_Challenge
+
 Directory: 0x01-challenge
+
 File: react-blog
